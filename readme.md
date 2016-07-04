@@ -1,6 +1,6 @@
-## Programming101 assign1 
+## Programming101 assign1
 請參考以下步驟，完成作業。
- 
+
 ### 1.下載作業專案，並完成之。
 - 點選`Fork按鈕`(網頁右上角) Fork 此作業，Github會把他複製到你的帳號底下
 - 點選網頁右方的 `Download Zip按鈕`(網頁右側)
@@ -18,8 +18,8 @@
 - 複製此連結，並到 [Programming101](http://programming101.cs.nccu.edu.tw/dashboard.html) 繳交。
 
 ### (4).更新你上傳過的程式碼
-- 請先確認你登入了 github 
+- 請先確認你登入了 github
 - 到 github.com 裡面，畫面右側的 reposotory 裡點入你的 assignX 作業。.
 - 執行本說明檔的步驟二(上傳你完成的程式碼)，不用再次執行步驟3
 
-### 恭喜你交作業完畢！有問題請上[Mooc平台](http://moocs.nccu.edu.tw/course/17/discuss/)討論。
+### 恭喜你交作業完畢！有問題請上[Mooc平台](http://moocs.nccu.edu.tw/course/45/discuss/)討論。
