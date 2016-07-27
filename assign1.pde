@@ -10,7 +10,7 @@ void setup () {
   imgTr=loadImage("img/treasure.png");
   imgEn=loadImage("img/enemy.png");
   trX=floor(random(1,500));
-  trY=floor(random(30,400));
+  trY=floor(random(60,400));
   enY=floor(random(30,400));// your code
 }
 
